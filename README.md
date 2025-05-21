@@ -1,4 +1,4 @@
-# adrianalvird.github.io/ddokuchaev
+# ddokuchaev.github.io/colaborator
 
 # Burpsuite-Collaborator is Require for SSRF Vulnerability Finding
 this server is actually Burp Collaborator Alternative , if you're not using burpsuite pro you can use this a Collaborator .. 
